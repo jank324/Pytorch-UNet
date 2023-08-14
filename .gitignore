@@ -7,3 +7,6 @@ checkpoints/
 venv/
 .idea/
 wandb/
+
+data_carvana
+.DS_Store
